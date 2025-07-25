@@ -1,0 +1,19 @@
+# .gitignore for Arduino/PlatformIO
+
+.pio/
+*.elf
+*.bin
+*.hex
+*.map
+*.dmp
+*.eep
+*.lst
+*.srec
+*.sym
+*.dat
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Thermometer, Gauge, Droplet, Clock, MapPin, Settings } from 'lucide-react';
+import { Thermometer, Gauge, Droplet, Clock, Settings } from 'lucide-react';
 
 const Dashboard: React.FC = () => {
   return (
